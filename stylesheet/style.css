@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(207, 195, 141);
+}
+nav
+{
+    background-color: rgb(247, 236, 190);
+    padding: 10px;
+}
+nav ul 
+{
+    text-align: center;
+    font-size: 1.2em;
+}
+nav ul li 
+{
+    list-style-type: none;
+    background-color: #b2b2b2a1;
+    display: inline;
+    padding: 15px;
+    
+    border: 2px solid rgb(54, 54, 54);
+    border-radius: 10px;
+}
+nav ul li :hover
+{
+    background-color: #535353;
+    padding: 15px;
+}
+footer
+{
+    position: fixed;
+    left:0px;
+    bottom:0px;
+    height:30px;
+    width:100%;
+    background-color:  rgb(247, 236, 190);
+    padding-bottom: 15px;
+}
+footer p
+{
+
+    text-align: center;
+    color: black;
+
+}
